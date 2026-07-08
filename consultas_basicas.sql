@@ -1,4 +1,3 @@
-sql
 -- TechStore — Consultas Básicas SELECT
 -- Autor: Yamila Moran
 -- Fecha: 07.07.26
