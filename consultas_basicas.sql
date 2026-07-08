@@ -1,6 +1,6 @@
-# TechStore — Consultas Básicas SELECT
-##Autor: Yamila Moran
-## Fecha: 07.07.26
+-- TechStore — Consultas Básicas SELECT
+-- Autor: Yamila Moran
+-- Fecha: 07.07.26
 
 --Consulta 1: Exploración general de la tabla sales
 SELECT * FROM sales;
